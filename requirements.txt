@@ -1,0 +1,21 @@
+altgraph==0.17
+auto-py-to-exe==2.7.8
+bottle==0.12.19
+bottle-websocket==0.2.9
+cffi==1.14.4
+Eel==0.12.4
+et-xmlfile==1.0.1
+future==0.18.2
+gevent==20.9.0
+gevent-websocket==0.10.1
+greenlet==0.4.17
+jdcal==1.4.1
+openpyxl==3.0.5
+pefile==2019.4.18
+pycparser==2.20
+pyinstaller @ https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+pyinstaller-hooks-contrib==2020.10
+pywin32-ctypes==0.2.0
+whichcraft==0.6.1
+zope.event==4.5.0
+zope.interface==5.2.0
